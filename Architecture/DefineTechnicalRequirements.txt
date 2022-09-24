@@ -1,0 +1,41 @@
+background information on your task
+Technical requirements complement the functional requirements, which are set by business and define how the system should behave. Technical requirements are also called non-functional requirements or simply NFRs. Capturing technical requirements is usually under the responsibility of architects, but it is always done in cooperation with the client.
+To understand what the priorities are, you need to ask questions for example like these:
+
+When the user is making a booking, is it more important to have 100% up to date calendar information, or to have a smooth browsing experience of the available slots?
+Is it ok to give up calendars being fully up to date if we gain smooth browsing of free slots?
+
+Here is your task
+You have asked the client at Digital Healthcare to send you what new technical requirements they suggest having in addition to the existing ones. You have received an answer, where they have revisited some of the existing requirements and added a few new ones they would like to have. You will now go through the suggested requirements to be prepared for a meeting, where decisions about them will be made. You need to make sure the suggested requirements are explicit and clear when determining if they should be required or not.
+
+You need to identify all requirements that cannot be accepted as such but require more clarification. Read the technical requirements suggested by your client and select the requirements that need to be reformulated.
+
+To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below.
+
+4
+Resources to help you with the task
+Here is a list of some of the most common concerns for non-functional requirements. There are much more than these, but they will give you the idea:
+
+Scalability
+How many users must be supported?
+Is the number of users expected to increase in the future?
+Performance
+How fast should the system respond?
+Recoverability
+How does the system recover after a failure?
+Security
+How should data be protected?
+How are different sorts of attacks prevented?
+Maintainability
+Does the system need to be easily maintained?
+Operability
+How is the system operated and managed?
+Availability
+Does the system need to be available 24x7?
+
+
+Good non-functional requirements are clear, measurable, and realistic.
+
+Clear requirements ensure common understanding for everyone regarding what the requirement means
+Measurable requirements can be verified by testing the system
+Realistic requirements define targets that can be reached with reasonable costs
