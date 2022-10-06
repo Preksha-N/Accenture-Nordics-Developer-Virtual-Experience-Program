@@ -1,0 +1,28 @@
+Here is the background information on your task
+Architecture design is the task architects are famous for. Sometimes architects get a clean slate and have the opportunity to suggest the best design they can think of. But very often the system itself already exists, and new features must be built upon the existing base. Or the system itself might be new, but needs to use existing elements, for example old databases.
+
+Another very typical task in software development is to review the work of others. Developers and architects constantly review work of their colleagues. This habit helps to ensure that the work items are of good quality. 
+
+
+
+3
+Here is your task
+You are provided some existing architectural descriptions of the current system. Digital Healthcare is planning on some new features and you need to analyze if the current architecture could support these. In this task you look at one of them: Services for booking a doctor's appointment.
+
+One of your colleagues has already analyzed another description and sketched a suggestion on how it should look: Integration plan with a partner hospital. Your task is to do a peer review of this suggestion to identify details your colleague might have missed.
+
+To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below.
+
+
+
+
+4
+Resources to help you with the task
+Existing description of services involved when booking a doctor's appointment:
+
+
+
+Your colleague’s suggested integration with a partner hospital:
+
+
+

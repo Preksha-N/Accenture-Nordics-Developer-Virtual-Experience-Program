@@ -1,0 +1,15 @@
+Digital Healthcare to understand what cloud is
+
+When software is used only by the company's own personnel, it might be easy to estimate how much computing power is needed
+
+Running in the cloud means that software can be run without owning any hardware, but the hardware can instead be leased from a cloud service provider.
+The physical hardware is somewhere else, and you don't need to worry about the maintenance or servers. You just use it as much as you need, and you pay for what you have used. This is called IaaS, as in infrastructure as a service.
+Cloud providers also offer other, more advanced services, than just plain hardware. This is called PaaS, as in platform as a service. For example, databases can be uses as a service, where the user of the database doesn't have to install the database or do any maintenance on it, but the cloud provider takes care of all this.
+
+Here is your task
+Digital Healthcare has their own servers, which are running in a dedicated room at their own office and are maintained by their own team.
+
+They need to buy new machines but are unsure how much they should invest to be able to serve future customers. Digital Healthcare is asking you to help them understand what options they have. They want to be able to serve all potential customers, but at the same time keep costs reasonable.
+
+quiz
+Q 1/4: Which of these would be a valid reason for Digital Healthcare to start using cloud?
